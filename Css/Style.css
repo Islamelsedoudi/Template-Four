@@ -132,7 +132,6 @@ a {
     }
 }
 
-
     /* End Sidebar */
 
     /* Start Comtent */
@@ -254,7 +253,7 @@ a {
     }
 }
 
-/* Start Welcome */
+    /* Start Welcome */
 
 
 .welcome .intro {
@@ -268,17 +267,14 @@ a {
         padding-bottom: 30px;
     }
 }
-
 .welcome .intro p {
     color: var(--grey-color);
     margin-top: 5px;
 }
-
 .welcome .intro img {
     width: 150px;
     margin-bottom: -10px;
 }
-
 @media (max-width: 767px) {
     .welcome .intro img {
         display: none;
@@ -341,11 +337,9 @@ a {
     background-color: var(--blue-alt-color);
 }
 
-
     /* End Welcome */
 
     /* Start Quick-draft */
-
 
 .quick-draft {
     padding: 20px;
@@ -398,11 +392,9 @@ a {
     background-color: var(--blue-alt-color);
 }
 
-
     /* End Quick-draft */
 
     /* Start Target */
-
 
 .targets {
     background-color: white;
@@ -783,7 +775,6 @@ a {
     border-radius: 6px;
 }
 
-
     /* End_latest-uploads */
 
     /* Start-Last-project */
@@ -910,7 +901,6 @@ a {
     font-size: 13px;
     color: var(--grey-color);
 }
-
 
      /* End Reminders  */
 
@@ -1136,7 +1126,7 @@ a {
 }
 
 
-/* Start-site-control */
+    /* Start-site-control */
 
 .site-control {
     background-color: white;
@@ -1215,9 +1205,9 @@ a {
     outline: none;
 }
 
-/* End site control */
+    /* End site control */
 
-/* Start General Info */
+    /* Start General Info */
 
 .general-info {
     background-color: white;
@@ -1266,7 +1256,6 @@ a {
     /* End General Info */
 
     /* Start Security Info */
-
 
 .security-info {
     background-color: white;
@@ -1543,7 +1532,6 @@ a {
     /* Start Profile-page */
 
     /* Start Overviwe */
-
 
 .profile-page {
     margin: 20px;
@@ -2087,12 +2075,12 @@ a {
     border-radius: 6px;
 }
 
-/* End Friends Page */
+    /* End Friends Page */
 
 
-/* Start Files Page */
+    /* Start Files Page */
 
-/* Srart Files Stats */
+    /* Srart Files Stats */
 
 .files-page {
     display: flex;
